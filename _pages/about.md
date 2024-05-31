@@ -11,4 +11,4 @@ My name is Yunya Wang, a freshman majoring Data Science at the Chinese Universit
 
 Academic Performace
 ======
-*Ranking top 14% in the School of Data Science
+* Ranking top 14% in the School of Data Science
