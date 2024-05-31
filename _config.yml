@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Wang Yunya / https://eureka-wong.github.io"
+title                    : "Yunya Wang"
 title_separator          : "-"
 name                     : &name "Wang Yunya"
 description              : &description "Undergraduate student at CUHKSZ, the Chinese University of HongKong,Shenzhen"
@@ -22,7 +22,7 @@ repository               : "Eureka-wong/eureka-wong.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Wang Yunya"
+  name             : "Yunya Wang"
   pronouns         : # example: "she/her"  
   bio              : "Undergraduate student at the Chinese University of HongKong, Shenzhen"
   location         : "Shenzhen,China"
@@ -32,11 +32,11 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  #googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  #orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
   # Repositories and software development
@@ -201,16 +201,16 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: False
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: False
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: False
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: False
     permalink: /:collection/:path/
 
 
