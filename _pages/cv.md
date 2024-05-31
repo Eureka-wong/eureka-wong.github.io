@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-*B.S. in CUHKSZ, the Chinese University of Hong Kong, Shenzhen 2027 (expected)
+* B.S. in CUHKSZ, the Chinese University of Hong Kong, Shenzhen 2027 (expected)
 
 Service
 ======
