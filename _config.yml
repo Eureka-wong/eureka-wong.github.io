@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Yunya Wang"
 title_separator          : "-"
-name                     : &name "Wang Yunya"
+name                     : &name "Yunya Wang"
 description              : &description "Undergraduate student at CUHKSZ, the Chinese University of HongKong,Shenzhen"
 url                      : https://eureka-wong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
