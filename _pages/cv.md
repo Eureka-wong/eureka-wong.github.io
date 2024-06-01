@@ -13,6 +13,12 @@ Education
 ======
 * B.S. in CUHKSZ, the Chinese University of Hong Kong, Shenzhen 2027 (expected)
 
+
+Lab Experience
+======
+* Spring 2024-Present: A group member of Multimodel Research Group 
+
+
 Service
 ======
 * Spring 2024: Voluntary Online Teaching
@@ -26,7 +32,7 @@ Service
   
 Skills
 ======
-* Programming skills: python,have completed 'Sliding-Puzzle-Gui' and 'Snake' through python
+* Programming skills: python
 * Language skills：Madarian, English
 * Hobbies: Calligraphy, Piano
 
