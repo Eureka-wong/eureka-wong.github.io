@@ -21,13 +21,16 @@ Lab Experience
 
 Service
 ======
+*Spring 2024: Intern at Fnii
+  *FNii, CUHKSZ
+  *Duties include: Conduct research on feature alignment, 3D representation, etc.
 * Spring 2024: Voluntary Online Teaching
   * Stepping Stone
-  * Duties includes: Provide free English courses for children in less developed regions in China
+  * Duties include: Provide free English courses for children in less developed regions in China
 
 * Fall 2023: Student Assistant
   * University of Art Centre(CUHKSZ)
-  * Duties included: Guide exhibitions; Translate and file documents
+  * Duties include: Guide exhibitions; Translate and file documents
 
   
 Skills
