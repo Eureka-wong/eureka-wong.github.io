@@ -21,9 +21,10 @@ Lab Experience
 
 Service
 ======
-*Spring 2024: Intern at Fnii
-  *FNii, CUHKSZ
-  *Duties include: Conduct research on feature alignment, 3D representation, etc.
+* Spring 2024: Intern at Future Network of Intelligence Institute(Fnii)
+  * Fnii, CUHKSZ
+  * Duties include: Conduct research on feature alignment, 3D representation, etc.
+    
 * Spring 2024: Voluntary Online Teaching
   * Stepping Stone
   * Duties include: Provide free English courses for children in less developed regions in China
