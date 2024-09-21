@@ -21,7 +21,7 @@ Lab Experience
 
 Service
 ======
-* Spring 2024: Intern at Future Network of Intelligence Institute(Fnii)
+* Spring-Fall 2024: Intern at Future Network of Intelligence Institute(Fnii)
   * Fnii, CUHKSZ
   * Duties include: Conduct research on feature alignment, 3D representation, etc.
     
@@ -33,6 +33,10 @@ Service
   * University of Art Centre(CUHKSZ)
   * Duties include: Guide exhibitions; Translate and file documents
 
+**Academic Awards**
+======
+* Undergraduate Research Award, CUHKSZ, 2024
+* Dean's list 2023-2024
   
 Skills
 ======
