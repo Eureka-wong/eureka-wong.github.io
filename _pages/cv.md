@@ -24,6 +24,8 @@ Service
 * Spring-Fall 2024: Intern at Future Network of Intelligence Institute(Fnii)
   * Fnii, CUHKSZ
   * Duties include: Conduct research on feature alignment, 3D representation, etc.
+
+* Fall 2024: Teaching Assistant of introduction to Python course at CUHKSZ
     
 * Spring 2024: Voluntary Online Teaching
   * Stepping Stone
