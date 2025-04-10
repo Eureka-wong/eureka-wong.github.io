@@ -50,6 +50,7 @@ Service
 ======
 * Undergraduate Research Award, CUHKSZ, 2024-2025
 * Dean's list 2023-2024
+* Paper "MastSAM: Solving Multi-view Inconsistency Segmentation by Sequence Matched 3D Coordinates" has been accepted by IJCNN
   
 Skills
 ======
