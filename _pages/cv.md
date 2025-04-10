@@ -16,16 +16,27 @@ Education
 
 Lab Experience
 ======
-* Spring 2024-Present: A group member of Multimodel Research Group 
+* Spring 2024-Present: A group member of Multimodel Research Group in Future Network of Intelligence Institute (FNii) 
 
 
 Service
 ======
-* Spring-Fall 2024: Intern at Future Network of Intelligence Institute(Fnii)
+* 2024.12-2025.6: Teaching Assistant of Introduction to Data Science course
+  * CUHKSZ
+  * Duties include:
+      * Tutor students basic concepts of Data Science, including probability, statistics, optimization and machine learning.
+      * Instill core knowledge from course materials to assign quizzes to students to examine their command of the course.
+      * Answer students' questions and help improve their academic performance.
+        
+* 2024.4-2025.4: Intern at Future Network of Intelligence Institute(Fnii)
   * Fnii, CUHKSZ
-  * Duties include: Conduct research on feature alignment, 3D representation, etc.
+  * Duties include:
+      * Identify high quality datasets like Scannet, Nuimages, etc. for experiments.
+      * Streamline model pipeline and improve model's performance across various datasets.
+      * Analyze the experiment results and propose innovative methods to enhance model's performance.
 
-* Fall 2024: Teaching Assistant of introduction to Python course at CUHKSZ
+* 2024.9-2025.1: Teaching Assistant of introduction to Python course 
+  * Duties include: Introduce fundamental concepts of Python. Tutor students to debug their codes. Answer students' questions concerning Python.
     
 * Spring 2024: Voluntary Online Teaching
   * Stepping Stone
@@ -37,12 +48,12 @@ Service
 
 **Academic Awards**
 ======
-* Undergraduate Research Award, CUHKSZ, 2024
+* Undergraduate Research Award, CUHKSZ, 2024-2025
 * Dean's list 2023-2024
   
 Skills
 ======
-* Programming skills: python
+* Programming skills: Python (have a good command of tool libraries like pandas, numpy, sklearn, matplotlib, pytorch etc.), JAVA, Matlab, Markdown, R, SQL, LaTeX etc.
 * Language skills：Madarian, English
 * Hobbies: Calligraphy, Piano
 
