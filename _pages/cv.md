@@ -22,7 +22,9 @@ Skills
 
 Research Experience
 ======
-## 07/2025-08/2025: *Project Research Assistant*, subsidized by Hong Kong Innovation and Technology Commision, at Logistics and Supply Chain MultiTech R&D Centre
+07/2025-08/2025 
+
+*Project Research Assistant*, subsidized by Hong Kong Innovation and Technology Commision, at Logistics and Supply Chain MultiTech R&D Centre
 
   Hong Kong, China
   * Developed and deployed acoustic simulation environments for UAV indoor localization and obstacle avoidance using ROS2 and Python, modeling sound propagation and reception under controlled conditions
@@ -31,7 +33,9 @@ Research Experience
   * Built Docker images for development and simulation workflows to ensure environment consistency and reproducibility across host systems
   * Managed project source code via GitHub, applying version control with branching, merging, and documented commit history
 
-## 04/2025-04/2025: *Research Assistant* at Future Network of Intelligence Institute (FNii)
+04/2025-04/2025
+
+*Research Assistant* at Future Network of Intelligence Institute (FNii)
 
   Shenzhen, China
   * Integrated Segment Anything Model (SAM) with Mast3R to address consistency issues in traditional 2D models; developed ML pipeline in Python (OpenCV, NumPy, Pandas), improving segmentation consistency by 17.3%
@@ -43,7 +47,9 @@ Research Experience
 
 Extracurricular Activities
 ======
-## 09/2024-05/2025: *Teaching Assistant* for Introduction to Data Science course & Python Programming
+09/2024-05/2025 
+
+*Teaching Assistant* for Introduction to Data Science course & Python Programming
 
   CUHKSZ
   * Delivered interactive tutorials on Python fundamentals, statistical analysis, and introductory machine learning algorithms
