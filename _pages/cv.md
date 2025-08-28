@@ -13,49 +13,51 @@ Education
 ======
 * B.S. in CUHKSZ, the Chinese University of Hong Kong, Shenzhen 2027 (expected)
 
-
-Lab Experience
+Skills
 ======
-* Spring 2024-Present: A group member of Multimodel Research Group in Future Network of Intelligence Institute (FNii) 
+* Programming Languags: Python, Java, C++, SQL, MATLAB
+* Python Libraries: Numpy, Pandas, PyTorch, scikit-learn, OpenCV, Matplotlib, ROS
+* Tools & Platforms: Git, Docker, LaTeX, Markdown, Excel
 
 
-Service
+Research Experience
 ======
-* 2024.12-2025.6: Teaching Assistant of Introduction to Data Science course
+07/2025-08/2025: *Project Research Assistant*, subsidized by Hong Kong Innovation and Technology Commision, at Logistics and Supply Chain MultiTech R&D Centre
+  Hong Kong, China
+  * Developed and deployed acoustic simulation environments for UAV indoor localization and obstacle avoidance using ROS2 and Python, modeling sound propagation and reception under controlled conditions
+  * Designed and implemented advanced audio processing and localization algorithms (FFT, beamforming, SLAM factor graph) for noise reduction, pose estimation, and plane reconstruction
+  * Optimized algorithm pipeline by incorporating spatial parameters and tuning cost functions, achieving centimeter-level indoor positioning precision
+  * Built Docker images for development and simulation workflows to ensure environment consistency and reproducibility across host systems
+  * Managed project source code via GitHub, applying version control with branching, merging, and documented commit history
+
+* 04/2025-04/2025: *Research Assistant* at Future Network of Intelligence Institute (FNii)
+  * Shenzhen, China
+  * Integrated Segment Anything Model (SAM) with Mast3R to address consistency issues in traditional 2D models; developed ML pipeline in Python (OpenCV, NumPy, Pandas), improving segmentation consistency by 17.3%
+  * Designed and executed experiments on large-scale datasets (NuImages, DAVIS, Mose); validated model performance with F1, IoU, Precision, and Recall metrics
+  * Visualized and analyzed results using Matplotlib, Seaborn, and Excel, deriving actionable insights to refine algorithms
+  * Authored research papers in LaTeX; one accepted at the International Joint Conference on Neural Networks (IJCNN)
+
+
+
+Extracurricular Activities
+======
+* 09/2024-05/2025: *Teaching Assistant* for Introduction to Data Science course & Python Programming
   * CUHKSZ
-  * Duties include:
-      * Tutor students basic concepts of Data Science, including probability, statistics, optimization and machine learning.
-      * Instill core knowledge from course materials to assign quizzes to students to examine their command of the course.
-      * Answer students' questions and help improve their academic performance.
+  * Delivered interactive tutorials on Python fundamentals, statistical analysis, and introductory machine learning algorithms
+  * Designed quizzes and assignments for 500+ students, evaluating knowledge acquisition and reinforcing key concepts
+  * Analyzed student scores and feedback to refine teaching strategies; mentored students on debugging and algorithm design, strengthening practical coding skills
         
-* 2024.4-2025.4: Intern at Future Network of Intelligence Institute(Fnii)
-  * Fnii, CUHKSZ
-  * Duties include:
-      * Identify high quality datasets like Scannet, Nuimages, etc. for experiments.
-      * Streamline model pipeline and improve model's performance across various datasets.
-      * Analyze the experiment results and propose innovative methods to enhance model's performance.
 
-* 2024.9-2025.1: Teaching Assistant of introduction to Python course 
-  * Duties include: Introduce fundamental concepts of Python. Tutor students to debug their codes. Answer students' questions concerning Python.
     
-* Spring 2024: Voluntary Online Teaching
-  * Stepping Stone
-  * Duties include: Provide free English courses for children in less developed regions in China
-
-* Fall 2023: Student Assistant
-  * University of Art Centre(CUHKSZ)
-  * Duties include: Guide exhibitions; Translate and file documents
-
 **Academic Awards**
 ======
 * Undergraduate Research Award, CUHKSZ, 2024-2025
 * Dean's list 2023-2024
 * Paper "MastSAM: Solving Multi-view Inconsistency Segmentation by Sequence Matched 3D Coordinates" has been accepted by IJCNN
   
-Skills
+Additional information
 ======
-* Programming skills: Python (have a good command of tool libraries like pandas, numpy, sklearn, matplotlib, pytorch etc.), JAVA, Matlab, Markdown, R, SQL, LaTeX etc.
-* Language skills：Madarian, English
+* Language skills：English (Fluent), Mandarin Chinese (Native)
 * Hobbies: Calligraphy, Piano
 
   
